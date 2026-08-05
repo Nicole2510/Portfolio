@@ -2,9 +2,7 @@
 
 My personal portfolio showcasing my software development experience, engineering projects, technical skills, leadership work, and interests beyond development.
 
-## Live Website
-
-**[View the portfolio](https://nicoleadigwe.netlify.app/)**
+## Live Website: [nicoleadigwe.netlify.app](https://nicoleadigwe.netlify.app/)
 
 
 ## Highlights
