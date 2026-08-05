@@ -1,14 +1,11 @@
-# Nicole Bishop-Adigwe | Portfolio
+# Portfolio
 
 My personal portfolio showcasing my software development experience, engineering projects, technical skills, leadership work, and interests beyond development.
 
 ## Live Website
 
-The portfolio will be available here after deployment:
+**[View the portfolio](https://nicoleadigwe.netlify.app/)**
 
-**[View the portfolio](https://your-site-name.netlify.app)**
-
-Replace the URL above with the Netlify URL after the first successful deployment.
 
 ## Highlights
 
